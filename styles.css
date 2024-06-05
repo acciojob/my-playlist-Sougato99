@@ -3,9 +3,11 @@
 	padding : 0px;
 	margin : 0px;
 }
+body{
+	background-color : rgb(204, 204, 204);
+}
 .container{
 	position : relative;
-	background-color : rgb(204, 204, 204);
 	padding : 15px
 }
 .heading{
